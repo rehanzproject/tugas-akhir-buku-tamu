@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.center-blue {
+    padding: 20px;
+    background-color: #00adff ;
+    color: white;
+}
+.center-white {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 16px;
+}
